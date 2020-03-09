@@ -1,0 +1,2 @@
+web - yarn 
+mobile - expo init mobile (inicializa a pasta com a configuração básica para mobile)
