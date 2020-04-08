@@ -1,2 +1,2 @@
 # devradar
-Projeto resultante da Semana Omnistack #10
+Final Project from Omnistack Week #10
